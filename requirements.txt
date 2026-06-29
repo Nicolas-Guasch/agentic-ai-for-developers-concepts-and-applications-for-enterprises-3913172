@@ -1,1 +1,5 @@
-# Specify Python package requirements for your project here (e.g., Mako==1.1.1). If your project doesn't require these, you can leave this file unchanged or delete it.
+python-dotenv==1.0.0
+llama-index==0.10.59
+llama-index-core==0.10.59
+llama-index-llms-gemini==0.1.11
+llama-index-embeddings-gemini==0.1.8
